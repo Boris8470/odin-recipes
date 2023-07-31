@@ -1,0 +1,17 @@
+body{
+    background-color: #00ff0050;
+    color:rgba(255,0,0,0.5);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 800;
+    margin:10%;
+
+
+a{
+    color: darkblue;
+}
+.img{
+
+    border-radius: 50%;
+}
